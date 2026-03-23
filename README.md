@@ -1,3 +1,4 @@
+![banner](https://github.com/EmikoHigashi/emikosh/blob/main/blob/banner.png)
 🎨 8-bit Style Pixel Art Editor (PyQt)
 This project is a pixel art editor made with Python and PyQt.
 You can choose colors, click the grid, and draw your own pixel art.
